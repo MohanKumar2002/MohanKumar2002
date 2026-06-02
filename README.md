@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- 1. HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohan%20Kumar%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Researcher%20%26%20Founder&descAlignY=62&descSize=16" width="100%" alt="Hero Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohan%20Kumar%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Researcher%20and%20Founder&descAlignY=62&descSize=16" width="100%" alt="Hero Banner" />
 
 <!-- 2. TYPING HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+Researcher+%26+Founder+at+Moh-AI+Tech;Specializing+in+LLMs+%26+RAG;Automation+Engineer+%26+AI+Dev;Transforming+Ideas+into+AI+Reality" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+Researcher+and+Founder+at+Moh-AI+Tech;Specializing+in+LLMs+and+RAG;Automation+Engineer+and+AI+Dev;Transforming+Ideas+into+AI+Reality" alt="Typing SVG" />
 
 </div>
 
@@ -158,7 +158,7 @@ Specialized in Deep Learning, NLP, Data Automation, and advanced ML pipelines.
 ### 📬 Let's Connect!
 
 <div align="center">
-  <a href="https://mohankumar-ai.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" /></a>
+  <a href="https://mohankumar-ai.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/mohan-kumar-subramanian-a46a77226"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mohanmohanmk684@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
