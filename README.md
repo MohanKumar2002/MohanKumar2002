@@ -1,18 +1,19 @@
 <div align="center">
 
-<!-- 1. HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohan%20Kumar%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Researcher%20and%20Founder&descAlignY=62&descSize=16" width="100%" alt="Hero Banner" />
+<!-- 1. ULTRA 3D ANIMATED HEADER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Ultra 3D Neon Banner" />
 
 <!-- 2. TYPING HEADER -->
+<br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+Researcher+and+Founder+at+Moh-AI+Tech;Specializing+in+LLMs+and+RAG;Automation+Engineer+and+AI+Dev;Transforming+Ideas+into+AI+Reality" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-<!-- 3. CODE-BLOCK ABOUT ME -->
+<!-- 3. 3D CODE-BLOCK ABOUT ME -->
 <div>
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="3D Isometric Developer GIF"/>
 
 ```python
 class Profile:
@@ -21,61 +22,33 @@ class Profile:
         self.role = "AI Researcher & Engineer"
         self.location = "Namakkal, Tamil Nadu, India"
         self.degree = "B.Tech in Artificial Intelligence"
-        self.stack = ["Python", "JavaScript", "React", "FastAPI", "PostgreSQL", "Transformers"]
-        self.currently_learning = ["Multi-Agent AI Systems", "Advanced RAG Architectures"]
-        self.fun_fact = "I've engineered ML pipelines for 21+ academic research projects!"
+        self.focus = ["LLMs", "RAG", "Multi-Agent AI", "Automation"]
+        self.fun_fact = "Engineered ML pipelines for 21+ academic projects!"
         
-    def motto(self):
-        return "Bridging the gap between academic innovation and theoretical computer science."
+    def execute_mission(self):
+        return "Bridging academic innovation with production AI."
 
-me = Profile()
+# Initializing ultra-view AI mode
+ai_dev = Profile()
+ai_dev.execute_mission()
 ```
 </div>
 <br clear="both"/>
 <br/>
 
-<!-- 4. TECH BADGES -->
-### 🛠️ Tech Stack & Expertise
+<!-- 4. GLASSMORPHIC 3D SKILL ICONS -->
+### 🔮 Tech Stack & AI Arsenal
 
-<details open>
-<summary><b>👨‍💻 Languages</b></summary>
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-</details>
-
-<details open>
-<summary><b>🚀 Frameworks & Libraries</b></summary>
-<br/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace" />
-</details>
-
-<details open>
-<summary><b>🗄️ Databases</b></summary>
-<br/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</details>
-
-<details open>
-<summary><b>☁️ Cloud, DevOps & Tools</b></summary>
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-<img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
-</details>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,react,fastapi,tailwind,pytorch,tensorflow,postgres,git,linux&theme=dark&perline=12" alt="3D Skill Icons" />
+  </a>
+</div>
 
 <br/>
 
 <!-- 5. WORK EXPERIENCE -->
-### 💼 Work Experience
+### 💼 Engineering Experience
 
 | Role & Company | Timeline | Impact |
 | --- | --- | --- |
@@ -85,7 +58,7 @@ me = Profile()
 <br/>
 
 <!-- 6. TOP PROJECTS -->
-### 🏆 Top 3 Projects
+### 🌌 Top 3 AI Architectures
 
 #### 1. Full-Stack AI Platform — Subscription-Ready AI Hubs
 * **Stack:** React, FastAPI, PostgreSQL, Tailwind CSS
@@ -103,12 +76,15 @@ me = Profile()
 
 <br/>
 
-<!-- 7. GITHUB STATS -->
-### 📊 GitHub Stats
+<!-- 7. 3D TROPHIES & STREAK STATS -->
+### 🏆 GitHub Milestones & Streaks
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohanKumar2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohanKumar2002&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <!-- Replaced broken Vercel stats with ultra 3D GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=MohanKumar2002&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=6&margin-w=15" alt="3D GitHub Trophies" />
+  <br/><br/>
+  <!-- Kept Streak Stats since they are fully operational -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohanKumar2002&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="60%" />
 </div>
 
 <br/>
@@ -155,7 +131,7 @@ Specialized in Deep Learning, NLP, Data Automation, and advanced ML pipelines.
 <br/>
 
 <!-- 13. CONTACT & SOCIALS -->
-### 📬 Let's Connect!
+### 📬 Initialize Connection
 
 <div align="center">
   <a href="https://mohankumar-ai.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139" alt="Portfolio" /></a>
@@ -165,5 +141,5 @@ Specialized in Deep Learning, NLP, Data Automation, and advanced ML pipelines.
 
 <div align="center">
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Ultra 3D Neon Footer" />
 </div>
